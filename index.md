@@ -12,7 +12,7 @@
 # Skill inventory
 
 # Resume
-- [My Resume](doc/assets/Peerapat-resume.pdf)
+- [My Resume](docs/assets/Peerapat-resume.pdf)
 
 
 ## Important link
