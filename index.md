@@ -6,10 +6,12 @@
 - Undergraduate Program: Bachelor of Science in Information and Communication Technology (International Program) 
   Mahidol University
 
-# Certification
+# Competitions
+
+# Certifications
 - TOEFL ITP: Score 570 (Test Date: May 2025)
   
-# Skill inventory
+# Skills inventory
 <table>
 <tr>
     <th>Technical</th>
