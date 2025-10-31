@@ -8,7 +8,7 @@
   Mahidol University
 
 # Certification
-
+- TOEFL ITP: Score 570 (Test Date: May 2025)
 # Skill inventory
 
 # Resume
