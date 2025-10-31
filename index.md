@@ -1,4 +1,3 @@
-#portfolio
 
 # About me
 - A first-year student with a strong passion for app and website development.  I love turning ideas into interactive experiences, whether it’s building programs or exploring logic behind each mechanic.  Currently learning and gaining experience but always ready to level up my skills.
