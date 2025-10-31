@@ -12,7 +12,7 @@
 # Skill inventory
 
 # Resume
-- [Download my Resume (PDF)](Peerapat Jianjaroenwattana.pdf)
+- [Download my Resume (PDF)](chrome://external-file/Peerapat%20Jianjaroenwattana.pdf)
 
 
 ## Important link
