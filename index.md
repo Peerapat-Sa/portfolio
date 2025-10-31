@@ -10,6 +10,38 @@
 # Certification
 - TOEFL ITP: Score 570 (Test Date: May 2025)
 # Skill inventory
+<tr>
+    <th>Technical</th>
+    <th>Soft</th>
+    <th>Language</th>
+    <th>Programming</th>
+  </tr>
+  <tr>
+    <td>
+      • UI design <br>
+      • Video editing <br>
+      • Machine learning <br>
+      • Microcontroller <br>
+      • Web development (Basic)
+    </td>
+    <td>
+      • Teamwork <br>
+      • Communication <br>
+      • Adaptability <br>
+      • Willingness to learn
+    </td>
+    <td>
+      • Thai (Native) <br>
+      • English (Fluent) — TOEFL ITP 580 <br>
+      • Russian (Basic)
+    </td>
+    <td>
+      • C (Learning) <br>
+      • HTML (Learning) <br>
+      • GML (Learning)
+    </td>
+  </tr>
+</table>
 
 # Resume
 - [My Resume](docs/assets/Peerapat-resume.pdf)
