@@ -33,7 +33,7 @@
     </td>
     <td>
       • Thai (Native) <br>
-      • English (Fluent) — TOEFL ITP 580 <br>
+      • English (Fluent) <br>
       • Russian (Basic)
     </td>
     <td>
