@@ -14,4 +14,5 @@
 # Resume
 
 ## Important link
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/peerapat-jianjaroenwattana/)])
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peerapat-jianjaroenwattana/)
+
